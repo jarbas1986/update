@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
     <version>1.0.0.8</version>
-    <url>https://github.com/jarbas1986/Arquivos-Atual/blob/master/Setup%20Assistente%20Virtual%C2%AE.exe?raw=true</url>
+    <url>https://github.com/jarbas1986/Arquivos-Atual/raw/master/Setup%20Assistente%20Virtual%C2%AE.exe</url>
     <changelog>https://github.com/jarbas1986/Arquivos-Atual/releases</changelog>
     <mandatory>false</mandatory>
 </item>
