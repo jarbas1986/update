@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
     <version>1.0.2.1</version>
-    <url>http://rbsoft.org/downloads/AutoUpdaterTest.zip</url>
+    <url>https://raw.githubusercontent.com/jarbas1986/update/master/UpdateAV</url>
     <changelog>https://github.com/ravibpatel/AutoUpdater.NET/releases</changelog>
     <mandatory>false</mandatory>
 </item>
