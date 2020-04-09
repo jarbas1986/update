@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>1.0.0.10</version>
+    <version>1.0.0.11</version>
     <url>https://github.com/jarbas1986/Arquivos-Atual/raw/master/Instalador%20AV%C2%AE.exe</url>
     <changelog>https://github.com/jarbas1986/Arquivos-Atual/releases</changelog>
     <mandatory>false</mandatory>
